@@ -1,0 +1,18 @@
+labels:
+- name: altLabel
+  original: SeaFloorLitter
+  path: http://www.w3.org/2004/02/skos/core#altLabel
+  translations:
+  - fr: ''
+- name: definition
+  original: Parameters describing the abundance and nature of litter data collected
+    on the seabed.
+  path: http://www.w3.org/2004/02/skos/core#definition
+  translations:
+  - fr: ''
+- name: prefLabel
+  original: Sea-floor litter abundance
+  path: http://www.w3.org/2004/02/skos/core#prefLabel
+  translations:
+  - fr: ''
+uri: http://vocab.nerc.ac.uk/collection/P02/current/SLIT/1/
