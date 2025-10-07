@@ -8,7 +8,7 @@ labels:
     original: "Any parameterisation of cell surface area of free-floating autotrophic biological entities designated by taxonomic names (e.g. species, genus, family) in any body of fresh or salt water."
     path: "http://www.w3.org/2004/02/skos/core#definition"
     translations:
-      - fr: "to be filled in"
+      - fr: "Toute paramétrisation de la surface cellulaire des entités biologiques autotrophes flottantes désignées par des noms taxonomiques (par exemple, espèces, genre, famille) dans n'importe quel corps d'eau douce ou salée."
   - name: "prefLabel"
     original: "Phytoplankton taxonomic surface area in water bodies"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
