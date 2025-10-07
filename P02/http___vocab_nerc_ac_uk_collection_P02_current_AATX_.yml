@@ -13,5 +13,5 @@ labels:
     original: "Phytoplankton taxonomic surface area in water bodies"
     path: "http://www.w3.org/2004/02/skos/core#prefLabel"
     translations:
-      - fr: "to be filled in"
+      - fr: "Phytoplancton surface taxonomique dans les plans d'eau"
 uri: "http://vocab.nerc.ac.uk/collection/P02/current/AATX/2/"
