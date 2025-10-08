@@ -1,18 +1,17 @@
 labels:
-- name: altLabel
-  original: Reg_prod
-  path: http://www.w3.org/2004/02/skos/core#altLabel
-  translations:
-  - fr: ''
-- name: definition
-  original: Parameters quantifying the uptake rate of nitrogen from excretion products
-    (ammonium and urea) by flora and fauna living in any body of salt or fresh water
-  path: http://www.w3.org/2004/02/skos/core#definition
-  translations:
-  - fr: ''
-- name: prefLabel
-  original: Regenerated production in water bodies
-  path: http://www.w3.org/2004/02/skos/core#prefLabel
-  translations:
-  - fr: ''
-uri: http://vocab.nerc.ac.uk/collection/P02/current/AMUP/2/
+  - name: "altLabel"
+    original: "Reg_prod"
+    path: "http://www.w3.org/2004/02/skos/core#altLabel"
+    translations:
+      - fr: "Reg_prod"
+  - name: "definition"
+    original: "Parameters quantifying the uptake rate of nitrogen from excretion products (ammonium and urea) by flora and fauna living in any body of salt or fresh water"
+    path: "http://www.w3.org/2004/02/skos/core#definition"
+    translations:
+      - fr: "Paramètres quantifier le taux d'absorption d'azote à partir de produits d'excrétion (ammonium et urée) par la flore et la faune vivant dans n'importe quel corps de sel ou d'eau douce"
+  - name: "prefLabel"
+    original: "Regenerated production in water bodies"
+    path: "http://www.w3.org/2004/02/skos/core#prefLabel"
+    translations:
+      - fr: "to be filled in"
+uri: "http://vocab.nerc.ac.uk/collection/P02/current/AMUP/2/"
